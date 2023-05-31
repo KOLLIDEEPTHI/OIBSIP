@@ -1,0 +1,53 @@
+.dashboard{
+    font-size: 20px;
+    font-weight: bold;
+    display:block;
+    background-image: url('https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149157312.jpg');
+    height: 220px;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    color: white;
+}
+
+h3{
+    color:rgb(113, 49, 173);
+    font-size: 35px;
+}
+
+.product-item {
+    text-align: center;
+    background-color: white;
+    width:190px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+  }
+
+  .product-image {
+    height: 200px;
+    width: 120px;
+  }
+
+  .button{
+    background-color: rgb(113, 49, 173);
+    color: white;
+    border-radius: 12px;
+    height: 38px;
+  }
+
+  .endboard{
+    font-size: 20px;
+    font-weight: bold;
+    display:block;
+    background-color: rgb(202, 211, 219);
+    height: 180px;
+    text-align: center;
+    position: relative;
+    text-align: center;
+}
+
+.icon{
+    width: 30px;
+    height: 50px;
+}
